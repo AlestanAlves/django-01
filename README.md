@@ -1,10 +1,10 @@
 # Django 
 
 <nav>
-  <h1>Academia - Mastertech - Estação Hack  <img src="https://ftp.mastertech.com.br/Nginx-Fancyindex-Theme/Nginx-Fancyindex-Theme-light/estacao-logo.png"  width="100"  /></h1>
+  <h1>Academia - Mastertech - Estação Hack  <img src="https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fd1ywbwqv5var5z.cloudfront.net%2Fcourses%2Fimages%2F000%2F000%2F082%2Foriginal%2Fpython_django.png%3F1464950119&f=1&nofb=1"  width="100"  /></h1>
 </nav>
 
-Day 15 Academia Mastertech - Facebook 🚀
+23/09/2019 - Facebook 🚀
 
 - **Site da documentação do Python Pypi:** ![Pypi](https://pypi.org/)
 - **Fazer startup no Django:** `django-admin startproject projeto .`
@@ -25,3 +25,4 @@ Day 15 Academia Mastertech - Facebook 🚀
 - [ ] Rodar joguinho no localhost:8000
   
 
+![](https://media0.giphy.com/media/11ZSwQNWba4YF2/giphy.gif?cid=790b7611fd9572113b6460faae8cd1d65114850ebdf4ef55&rid=giphy.gif)
