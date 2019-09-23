@@ -2,7 +2,7 @@
 
 Day 15 Academia Mastertech - Facebook 🚀
 
-- **Site da documentação do Python Pypi:** ![alt text](https://pypi.org/)
+- **Site da documentação do Python Pypi:** ![Pypi](https://pypi.org/)
 - **Fazer startup no Django:** `django-admin startproject projeto .`
 - **Runserver:** `python manage.py runserver` 
 - **Parar servidor de rodar:** `CTRL + C` 
@@ -13,7 +13,7 @@ Day 15 Academia Mastertech - Facebook 🚀
 - **Colocar style.css para o Django procurar:** `"{% static 'css/style.css' %}"` 
 - **Carregar Static antes se não da erro:** `{% load static %}` 
 - **Chamar variavel no html:** `{{ minha var }}` 
-- **Abrir programas do windows no linux:** ![alt text](https://www.winehq.org/)
+- **Abrir programas do windows no linux:** ![Wine](https://www.winehq.org/)
 
 
 ## Colocar joguinho da velha no Django 
