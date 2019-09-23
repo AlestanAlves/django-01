@@ -13,7 +13,10 @@ Day 15 Academia Mastertech - Facebook 🚀
 - **Colocar style.css para o Django procurar:** `"{% static 'css/style.css' %}"` 
 - **Carregar Static antes se não da erro:** `{% load static %}` 
 - **Chamar variavel no html:** `{{ minha var }}` 
-- **Colocar joguinho da velha no Django** 
+
+
+## Colocar joguinho da velha no Django 
+
 - [ ] Rodar joguinho no localhost:8000
   
 
