@@ -6,7 +6,7 @@
 
 23/09/2019 - Facebook 🚀
 
-- **Site da documentação do Python Pypi:** ![Pypi](https://pypi.org/)
+- **Site da documentação do Python - Pypi:** ![Pypi](https://pypi.org/)
 - **Fazer startup no Django:** `django-admin startproject projeto .`
 - **Runserver:** `python manage.py runserver` 
 - **Parar servidor de rodar:** `CTRL + C` 
