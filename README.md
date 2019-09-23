@@ -3,7 +3,7 @@
 Day 15 Academia Mastertech - Facebook 🚀
 
 
-- **Fazer startup:** `django-admin startproject projeto .`
+- **Fazer startup no Django:** `django-admin startproject projeto .`
 - **Runserver:** `python manage.py runserver` 
 - **Parar servidor de rodar:** `CTRL + C` 
 - **Usar python3 para iniciar o venv:** `python3 -m venv .venv`
