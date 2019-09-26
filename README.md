@@ -19,6 +19,24 @@
 - **Chamar variavel no html:** `{{ minha var }}` 
 - **Abrir programas do windows no linux:** ![Wine](https://www.winehq.org/)
 
+# Passo a passo Django
+
+``` 
+1: mkdir nome_da_pasta
+2: python -m venv  .venv
+3: source/Scripts/activate 
+4: touch  requirements.txt 
+5: colocar django  manualmente no requirements 
+6: pip install requirements.txt 
+7: django-admin startproject nome_do_projeto(conferir se o manage.py foi criado na raiz do projeto.
+8:em settings  do projeto, colocar em installed app o nome projeto
+9: py  manage.py  runserver 
+10: se rodou tá ok 
+11: py manage.py startapp  nome_da_aplicação
+12: mkdir imagens, static e java
+13: criar cada arquivo em sua pasta
+```
+
 
 ## Colocar joguinho da velha no Django 
 
